@@ -1,0 +1,23 @@
+palavras = [
+  'Carteira',
+  'Garrafa',
+  'leite',
+  'Tigre',
+  'Queijo',
+  'Homem',
+  'Hospital',
+  'Mouse',
+  'Teclado',
+  'Chave',
+  'Tela',
+  'Besouro',
+  'Megafone',
+  'Biblioteca',
+  'Bateria',
+  'Celular',
+  'Falta',
+  'Cochilo',
+  'Castelo',
+  'Chaveiro',
+  'Martelo'
+]
